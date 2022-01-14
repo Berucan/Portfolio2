@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 - HTML
 - CSS
-- Figma
+- Figma Template (https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=39%3A122)
 
 
 ## Live Demo
@@ -31,14 +31,14 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 - A text editor (eg. VScode)
 - Node package
+- Overview of Html, Css, flex-box, grid, Github and Linters
 
 ### Run project test in your local environment.
 
 To get the copy of this project on your local machine, please go ahead and follow the steps below:
 - Open your terminal
 - clone the project from the source repository by running run: git clone https://github.com/Berucan/Portfolio.git.
-- Open the use the live server extension for vscode or index.html file in the browser.
-
+- Open the index.html file in the browser or use the live server extension for vscode.
 ## Authors
 
 👤 **Berucan Daisy**
