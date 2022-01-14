@@ -13,15 +13,11 @@
 body {
   left: 0;
   top: 0;
-  height: 100vh;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  background-position-x: 1px;
-  background-position-y: 95px;
-  border-bottom-left-radius: 50px;
   margin: 10px;
-  background-image: url("images/background.png");
+  width: 375px;
+  padding: 10px 0 10px 10px;
+  background: #fff;
+  height: 100vh;
 }
 
 .main-div {
@@ -44,6 +40,14 @@ body {
   line-height: 52px;
   margin: 12px 0;
   margin-bottom: 20px;
+}
+
+.headline-section {
+  background-image: url("images/background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-bottom-left-radius: 50px;
 }
 
 .toolbar .nav-item img {
@@ -347,4 +351,13 @@ header img {
   font-size: 15px;
   line-height: 20px;
   color: #253858;
+}
+
+.media-icon ul,
+.capabilities,
+.language ul {
+  display: flex;
+  list-style: none;
+  padding-left: 2%;
+  column-gap: 22px;
 }
