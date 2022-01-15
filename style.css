@@ -22,6 +22,8 @@ body {
 
 .main-div {
   margin: 20px;
+  width: 327px;
+  font-size: 16px;
 }
 
 .heading {
@@ -38,8 +40,8 @@ body {
   font-weight: bold;
   font-size: 40px;
   line-height: 52px;
-  margin: 12px 0;
-  margin-bottom: 20px;
+  margin: 10px 0;
+  margin-bottom: 35px;
 }
 
 .headline-section {
@@ -62,7 +64,6 @@ body {
   width: 327px;
   height: 146px;
   left: 24px;
-  top: 276px;
   font-style: normal;
   font-weight: normal;
   font-family: "Poppins", sans-serif;
@@ -73,6 +74,7 @@ body {
   order: 1;
   flex-grow: 0;
   margin: 12px 0;
+  margin-top: -20px;
 }
 
 .info {
@@ -245,7 +247,7 @@ header img {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 24px;
   color: #344563;
 }
@@ -313,6 +315,7 @@ header img {
   display: flex;
   flex-direction: column;
   width: 100%;
+  margin-left: -20px;
 }
 
 .language-list img {
@@ -330,9 +333,11 @@ header img {
   justify-content: space-between;
   align-items: center;
   align-content: center;
+  margin-bottom: 15px;
+  width: 303px;
 }
 
-.langage-list .list {
+.language-list .list {
   position: static;
   width: 303px;
   height: 66.72px;
@@ -341,10 +346,9 @@ header img {
   display: flex;
   padding-left: 20px;
   align-items: center;
-  column-gap: 20px;
   background: #f7f7f9;
   border-radius: 8px;
-  margin: 18px 0;
+  margin: 12px 0;
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -360,4 +364,21 @@ header img {
   list-style: none;
   padding-left: 2%;
   column-gap: 22px;
+}
+
+.language-icon hr {
+  margin-bottom: 15px;
+  color: #fff;
+  width: 300px;
+}
+
+.first-two-sections {
+  margin-bottom: 20px;
+}
+
+.Description h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-style: normal;
+  font-weight: bold;
 }
