@@ -84,10 +84,12 @@ body {
 
 .heading1 {
   grid-row: 1 / span 2;
+  color: #8aaee4;
 }
 
 .profile1 {
   grid-row: 3 /span 5;
+  background-color: aqua;
 }
 
 .info {
