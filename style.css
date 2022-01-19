@@ -406,6 +406,7 @@ header img {
   padding-top: 50px;
   width: 375px;
   height: 779px;
+  background-size: 20px 30px;
   /* transform: matrix(1, 0, 0, -1, 0, 0); */
 }
 

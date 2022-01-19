@@ -6,7 +6,8 @@
 
 ![screenshot](./Screenshot.png)!
 
-Additional description about the project and its features.
+- Additional description about the project and its features. 
+We added a contact form to the Portfolio using pair programming.
 
 ## Built With
 
