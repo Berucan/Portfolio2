@@ -77,19 +77,6 @@ body {
   margin-top: -20px;
 }
 
-/* .section1 {
-  display: grid;
-  grid-template-rows: 150px;
-}
-
-.heading1 {
-  grid-row: 1 / span 2;
-}
-
-.profile1 {
-  grid-row: 3 /span 5;
-} */
-
 .info {
   position: static;
   left: 0;
@@ -398,17 +385,12 @@ header img {
 
 .contact_section {
   background-image: url("images/contact-form.png");
-  /* background-repeat: no-repeat;
-  background-position: center; */
   background-size: cover;
   border-top-left-radius: 80px;
   background-color: #6070ff;
   padding-top: 50px;
   width: 375px;
   height: 779px;
-  background-size: 20px 30px;
-  /* transform: matrix(1, 0, 0, -1, 0, 0); */
-
 }
 
 .contact_form {
