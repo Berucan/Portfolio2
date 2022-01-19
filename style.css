@@ -307,7 +307,7 @@ header img {
 }
 
 .btn-tonic:hover {
-  background:#6070ff;
+  background: #6070ff;
   color: #fff;
 }
 
@@ -489,6 +489,6 @@ textarea {
 }
 
 .contact:hover {
-  background:grey;
+  background: grey;
   color: #fff;
 }
