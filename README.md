@@ -7,7 +7,10 @@
 ![screenshot](./Screenshot.png)!
 
 - Additional description about the project and its features. 
-We added a contact form to the Portfolio using pair programming.
+We added a contact form to the Portfolio using pair programming. 
+This was done by Daisy and Stephen. - https://github.com/Berucan/Portfolio2/tree/create_form  
+
+
 
 ## Built With
 
