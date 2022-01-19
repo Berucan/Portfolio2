@@ -408,6 +408,7 @@ header img {
   height: 779px;
   background-size: 20px 30px;
   /* transform: matrix(1, 0, 0, -1, 0, 0); */
+
 }
 
 .contact_form {
@@ -426,7 +427,6 @@ header img {
   width: 327px;
   height: 150px;
   margin-left: 48px;
-  top: 114px;
   font-style: normal;
   font-family: "Poppins", sans-serif;
   font-weight: bold;
@@ -452,6 +452,8 @@ header img {
   text-align: center;
   color: #ebebff;
   margin-bottom: 30px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 input {
@@ -505,6 +507,6 @@ textarea {
 }
 
 .contact:hover {
-  background:#6070ff;
+  background:grey;
   color: #fff;
 }
