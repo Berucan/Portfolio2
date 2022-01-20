@@ -4,7 +4,7 @@
 
 > Protfolio2
 
-![screenshot](./Screenshot.png)!
+![screenshot](images/screenshot.png)!
 
 - Additional description about the project and its features. 
 We added a contact form to the Portfolio using pair programming. 
