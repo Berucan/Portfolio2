@@ -507,8 +507,8 @@ textarea:hover {
 }
 
 button {
-  transition: background-color 2s;
-  transform: height 2s;
+  transition-property: background-color, height;
+  transition-duration: 2s, 2s;
 }
 
 button:hover {
