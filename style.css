@@ -384,7 +384,7 @@ header img {
 }
 
 .contact_section {
-  background-image: url("images/contact-form.png");
+  background-image: url("images/contact\ form\ shapes-mobile@2x.png");
   background-size: cover;
   border-top-left-radius: 80px;
   background-color: #6070ff;
@@ -414,14 +414,13 @@ header img {
   font-weight: bold;
   font-size: 40px;
   line-height: 52px;
-  margin-top: 103px; 
+  margin-top: 103px;
   padding-left: 48px;
   padding-bottom: 12px;
 }
 
 .contact_desc h2 {
   font-size: 32px;
-  /* margin-bottom: 20px; */
   font-style: normal;
   font-weight: bold;
 }
@@ -446,7 +445,6 @@ header img {
   border-radius: 10px;
   margin-bottom: 15px;
   background-color: #0d151e;
-
 }
 
 input {
