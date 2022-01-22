@@ -456,6 +456,10 @@ input {
   margin-bottom: 15px;
 }
 
+input:hover {
+  transform: translate(10px, 10px);
+}
+
 textarea {
   background-color: #fff;
   border: 1px solid #cfd8dc;
@@ -464,6 +468,10 @@ textarea {
   height: 170px;
   margin-left: 24px;
   margin-right: 24px;
+}
+
+textarea:hover {
+  transform: translate(10px, 10px);
 }
 
 .contact_section .contact_form input {
@@ -495,6 +503,15 @@ textarea {
   border-radius: 8px;
   margin-top: 22px;
   margin-bottom: 16px;
+}
+
+button {
+  transition-property: background-color, height;
+  transition-duration: 2s, 2s;
+}
+
+button:hover {
+  height: 52px;
 }
 
 .contact:hover {
